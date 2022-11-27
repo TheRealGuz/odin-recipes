@@ -1,0 +1,1 @@
+This project will demonstrate that I can create a simple webpage where a user can find recipes. It will incorporate headings, unordered lists, and ordered lists.
